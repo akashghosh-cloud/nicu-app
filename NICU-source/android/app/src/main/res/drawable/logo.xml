@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dark deep blue-gray background container -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M12,54 C12,30.8 30.8,12 54,12 C77.2,12 96,30.8 96,54 C96,77.2 77.2,96 54,96 C30.8,96 12,77.2 12,54 Z" />
+    <!-- Bright accent blue medical cross -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M44,32 L64,32 L64,44 L76,44 L76,64 L64,64 L64,76 L44,76 L44,64 L32,64 L32,44 L44,44 Z" />
+    <!-- Deep core shadow blue cross -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M48,36 L60,36 L60,48 L72,48 L72,60 L60,60 L60,72 L48,72 L48,60 L36,60 L36,48 L48,48 Z" />
+</vector>
